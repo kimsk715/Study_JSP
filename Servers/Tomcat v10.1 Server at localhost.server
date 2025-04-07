@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v10.1 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v10.1 Server at localhost" name="Tomcat v10.1 Server at localhost" runtime-id="Apache Tomcat v10.1" serveModulesWithoutPublish="true" server-type="org.eclipse.jst.server.tomcat.101" server-type-id="org.eclipse.jst.server.tomcat.101" start-timeout="60" stop-timeout="15" testEnvironment="true" timestamp="19">
+  <list key="modules" value0="a_intro::org.eclipse.jst.jee.server:a_intro::jst.web::6.0" value1="c_mvc::org.eclipse.jst.jee.server:c_mvc::jst.web::6.0" value2="test::org.eclipse.jst.jee.server:test::jst.web::6.0" value3="d_mybatis_day2::org.eclipse.jst.jee.server:d_mybatis_day2::jst.web::6.0" value4="d_mybatis::org.eclipse.jst.jee.server:d_mybatis::jst.web::6.0"/>
+</server>

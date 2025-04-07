@@ -1,0 +1,6 @@
+1740548932195	Rename package 'com.app.controller.vo'
+1740549452634	Rename type 'memberDAO'
+1740549523418	Delete elements
+1740549629257	Move 'Action.java' to 'app'
+1740549635275	Move 'Result.java' to 'app'
+1740550675977	Move 'join.jsp' to 'member'
