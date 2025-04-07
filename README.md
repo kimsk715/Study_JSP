@@ -1,3 +1,5 @@
+#Study_JSP
+
 JSP(Java Server Page)
 	HTML을 중심으로 자바와 연동하여 사용하는 웹 언어.
 	HTML 코드 안에 JAVA 코드를 작성할 수 있는 언어.
